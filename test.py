@@ -32,3 +32,7 @@ def password():
         else:
             password.lower()== password and password.upper()==password and password.isalnum()==password
             print ('password is', strong)
+
+
+
+password()
